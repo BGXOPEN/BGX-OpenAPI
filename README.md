@@ -4,5 +4,3 @@
 * SDK directory: include java and python sdk
 
 If you have any questions, please post your issues on the board, We will ack you as soon as we can.Thanks.
-
-Discard：friendly api doc at : <https://apidocs.bgx.com>
